@@ -6,7 +6,8 @@ Clone our example repository that contains the set of documentation with the fol
 
 `git clone https://github.com/katacoda/scenario-examples.git katacoda-scenario-examples`{{execute}}
 
-`git status`{{execute}}
+`git -h`{{execute}}
+
 Within the repository, you will see a set of examples of implementing various Katacoda functionality.
 
 The scenario you are currently reading is in the directory `ls -lha katacoda-scenario-examples/create-scenario-101`{{execute}}. The directory name is what defines the URL.
