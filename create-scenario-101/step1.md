@@ -6,7 +6,7 @@ Clone our example repository that contains the set of documentation with the fol
 
 `git clone https://github.com/katacoda/scenario-examples.git katacoda-scenario-examples`{{execute}}
 
-`git -h`{{execute}}
+`git --help`{{execute}}
 
 Within the repository, you will see a set of examples of implementing various Katacoda functionality.
 
